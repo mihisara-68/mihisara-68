@@ -5,11 +5,13 @@
   <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=mihisara-68.mihisara-68&left_text=profile%20views"  />
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Hey+there+%F0%9F%91%8B+I'm+Mihisara;Full+Stack+Developer+%C2%B7+MERN+Stack;BSc+(Hons)+Computing+%26+Software+Engineering)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2000&pause=400&color=F75590&background=00000000&center=true&vCenter=true&width=700&height=70&lines=Hey+there+I'm+Mihisara+Madhushan;Full+Stack+Developer" />
+</p>
 
 # <div align="center">𝐡𝐞𝐲 𝐭𝐡𝐞𝐫𝐞 👋 𝐈' 𝗮𝗺 𝗺𝗶𝗵𝗶𝘀𝗮𝗿𝗮</div>
 
-###<div align="center"> Full Stack Developer · MERN Stack · BSc (Hons) Computing & Software Engineering</div>
+<div align="center"> Full Stack Developer · MERN Stack · BSc (Hons) Computing & Software Engineering</div>
 
 <p align="center">
   <a href="https://www.mihisaramadhushan.dev/">
@@ -29,8 +31,6 @@
 <br>
 
 ## About
-
-I build scalable, user-focused web applications end-to-end using the MERN stack. Currently expanding into AI/ML and cloud infrastructure while completing my degree in Computing & Software Engineering.
 
 💻 Full Stack Developer specializing in MERN Stack<br><br>🎓 BSc (Hons) Computing & Software Engineering Undergraduate<br><br>🌱 Currently learning AI/ML and Cloud Technologies<br><br>🔭 Working on Web Applications and Management Systems<br><br>⚡ Passionate about building scalable and user-friendly applications
 
@@ -58,6 +58,9 @@ I build scalable, user-focused web applications end-to-end using the MERN stack.
 
 **Exploring**
 
+
+ 
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
@@ -65,3 +68,6 @@ I build scalable, user-focused web applications end-to-end using the MERN stack.
 
 <br>
 
+<div align="center">
+📫 Reach me at mihisaramadushan68@gmail.com
+</div>
