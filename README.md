@@ -21,7 +21,7 @@
 
 ###
 
-<h1 data-importer="text" align="center">𝐡𝐞𝐲 𝐭𝐡𝐞𝐫𝐞 👋 𝐈' 𝗮𝗺 𝗺𝗶𝗵𝗶𝘀𝗮𝗿𝗮</h1>
+<h2 data-importer="text" align="center">𝐡𝐞𝐲 𝐭𝐡𝐞𝐫𝐞 👋 𝐈' 𝗮𝗺 𝗺𝗶𝗵𝗶𝘀𝗮𝗿𝗮</h2>
 
 ###
 
