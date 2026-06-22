@@ -9,9 +9,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2000&pause=400&color=F75590&background=00000000&center=true&vCenter=true&width=700&height=70&lines=Hey+there+I'm+Mihisara+Madhushan;Full+Stack+Developer" />
 </p>
 
-# <div align="center">𝐡𝐞𝐲 𝐭𝐡𝐞𝐫𝐞 👋 𝐈' 𝗮𝗺 𝗺𝗶𝗵𝗶𝘀𝗮𝗿𝗮</div>
-
-<div align="center"> Full Stack Developer · MERN Stack · BSc (Hons) Computing & Software Engineering</div>
 
 <p align="center">
   <a href="https://www.mihisaramadhushan.dev/">
@@ -32,9 +29,8 @@
 
 ## About
 
-💻 Full Stack Developer specializing in MERN Stack<br><br>🎓 BSc (Hons) Computing & Software Engineering Undergraduate<br><br>🌱 Currently learning AI/ML and Cloud Technologies<br><br>🔭 Working on Web Applications and Management Systems<br><br>⚡ Passionate about building scalable and user-friendly applications
+💻 Full Stack Developer specializing in MERN Stack<br>🎓 BSc (Hons) Computing & Software Engineering Undergraduate<br>🌱 Currently learning AI/ML and Cloud Technologies<br>🔭 Working on Web Applications and Management Systems<br>⚡ Passionate about building scalable and user-friendly applications
 
-<br>
 
 ## Tech Stack
 
