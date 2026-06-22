@@ -5,7 +5,7 @@
   <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=mihisara-68.mihisara-68&left_text=profile%20views"  />
 </div>
 
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&center=true&vCenter=true&width=1000&lines=Hey+there+%F0%9F%91%8B+I'm+Mihisara;Full+Stack+Developer;MERN+Stack+Developer;BSc+(Hons)+Computing+%26+Software+Engineering)](https://git.io/typing-svg)
 
 # <div align="center">𝐡𝐞𝐲 𝐭𝐡𝐞𝐫𝐞 👋 𝐈' 𝗮𝗺 𝗺𝗶𝗵𝗶𝘀𝗮𝗿𝗮</div>
 
