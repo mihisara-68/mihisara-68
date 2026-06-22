@@ -5,16 +5,25 @@
   <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=mihisara-68.mihisara-68&left_text=profile%20views"  />
 </div>
 
-###
 
-# <div align="center">𝐡𝐞𝐲 𝐭𝐡𝐞𝐫𝐞 👋 𝐈' 𝗮𝗺 𝗺𝗶𝗵𝗶𝘀𝗮𝗿𝗮</div
+
+# <div align="center">𝐡𝐞𝐲 𝐭𝐡𝐞𝐫𝐞 👋 𝐈' 𝗮𝗺 𝗺𝗶𝗵𝗶𝘀𝗮𝗿𝗮</div>
 
 ###<div align="center"> Full Stack Developer · MERN Stack · BSc (Hons) Computing & Software Engineering</div>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-mihisaramadhushan.dev-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://www.mihisaramadhushan.dev/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mihisara-madhushan/)
-[![Gmail](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mihisaramadushan68@gmail.com)
-
+<p align="center">
+  <a href="https://www.mihisaramadhushan.dev/">
+    <img src="https://img.shields.io/badge/Portfolio-mihisaramadhushan.dev-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/mihisara-madhushan/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:mihisaramadushan68@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 </div>
 
 <br>
