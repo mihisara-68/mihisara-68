@@ -18,9 +18,6 @@
 <div data-importer="profile-views" align="center">
   <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=mihisara-68.mihisara-68&left_text=profile%20views"  />
 </div>
-
-###
-
 <h2 data-importer="text" align="center">𝐡𝐞𝐲 𝐭𝐡𝐞𝐫𝐞 👋 𝐈' 𝗮𝗺 𝗺𝗶𝗵𝗶𝘀𝗮𝗿𝗮</h2>
 
 <h5 data-importer="text" align="center">Full Stack Web Developer | Software Engineerin</h5>
@@ -31,8 +28,7 @@
 
 ###
 
-<p data-importer="text" align="left">👩‍💻  About Me <br><br>💻 Full Stack Developer specializing in MERN Stack<br><br>🎓 BSc (Hons) Computing & Software Engineering Undergraduate<br><br>🌱 Currently learning AI/ML and Cloud Technologies<br><br>🔭 Working on Web Applications and Management Systems<br><br>⚡ Passionate about building scalable and user-friendly applications<br><br>🌍 Based in Sri Lanka</p>
-
+<p data-importer="text" align="left">👩‍💻  About Me <br><br>💻 Full Stack Developer specializing in MERN Stack<br><br>🎓 BSc (Hons) Computing & Software Engineering Undergraduate<br><br>🌱 Currently learning AI/ML and Cloud Technologies<br><br>🔭 Working on Web Applications and Management Systems<br><br>⚡ Passionate about building scalable and user-friendly applications
 ###
 
 <h3 data-importer="text" align="left">🛠 Language and tools</h3>
